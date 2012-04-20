@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A</key>
+	<string>All Schools</string>
+	<key>H</key>
+	<string>Tisch School of Arts</string>
+	<key>V</key>
+	<string>College of Arts &amp; Science</string>
+	<key>C</key>
+	<string>Stern Undergraduate School of Business</string>
+	<key>D</key>
+	<string>College of Dentistry</string>
+	<key>S</key>
+	<string>School of Social Work</string>
+	<key>T</key>
+	<string>Liberal Studies Program</string>
+	<key>G</key>
+	<string>Graduate School of Arts &amp; Science</string>
+	<key>E</key>
+	<string>Steinhardt</string>
+	<key>P</key>
+	<string>Wagner Graduate School of Public Service</string>
+	<key>Y</key>
+	<string>School of Continuing and Professional Studies</string>
+	<key>U</key>
+	<string>University Degree</string>
+	<key>K</key>
+	<string>Gallatin School of Individualized Study</string>
+	<key>N</key>
+	<string>College of Nursing</string>
+</dict>
+</plist>

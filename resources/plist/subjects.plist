@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A</key>
+	<dict>
+		<key></key>
+		<string>(All Subject Areas)</string>
+	</dict>
+	<key>C</key>
+	<dict>
+		<key></key>
+		<string>(All Subject Areas)</string>
+		<key>C10.</key>
+		<string>Accounting (C10.)</string>
+		<key>C15.</key>
+		<string>Finance (C15.)</string>
+		<key>C20.</key>
+		<string>Information Systems (C20.)</string>
+		<key>C22.</key>
+		<string>Statistics, Op Rsch &amp; Act Sci (C22.)</string>
+		<key>C30.</key>
+		<string>Stern Economics (C30.)</string>
+		<key>C40.</key>
+		<string>Social Impact Core (C40.)</string>
+		<key>C50.</key>
+		<string>Management &amp; Org Behavior (C50.)</string>
+		<key>C55.</key>
+		<string>Marketing (C55.)</string>
+		<key>C60.</key>
+		<string>Operations Management (C60.)</string>
+		<key>C70.</key>
+		<string>Multidisciplinary (C70.)</string>
+		<key>C90.</key>
+		<string>Study Abroad (C90.)</string>
+	</dict>
+	<key>D</key>
+	<dict>
+		<key></key>
+		<string>(All Subject Areas)</string>
+		<key>DH10</key>
+		<string>Dental Hygiene Level 1 (DH10)</string>
+		<key>DH11</key>
+		<string>Dental Hygiene Level 2 (DH11)</string>
+		<key>DH12</key>
+		<string>Dental Hygiene BS (DH12)</string>
+	</dict>
+	<key>E</key>
+	<dict>
+		<key></key>
+		<string>(All Subject Areas)</string>
+		<key>E03.</key>
+		<string>Interdisciplinary Honors &amp; Sem (E03.)</string>
+		<key>E07.</key>
+		<string>HEOP Pre-Freshmen (E07.)</string>
+		<key>E10.</key>
+		<string>Interdept Research Studies (E10.)</string>
+		<key>E11.</key>
+		<string>English Education (E11.)</string>
+		<key>E12.</key>
+		<string>Mathematics Education (E12.)</string>
+		<key>E14.</key>
+		<string>Science Education (E14.)</string>
+		<key>E15.</key>
+		<string>Environmental Conservation Ed (E15.)</string>
+		<key>E17.</key>
+		<string>Educational Theatre (E17.)</string>
+		<key>E19.</key>
+		<string>Ed Communication &amp; Technology (E19.)</string>
+		<key>E20.</key>
+		<string>Sociology of Education (E20.)</string>
+		<key>E22.</key>
+		<string>Reading Recovery (E22.)</string>
+		<key>E23.</key>
+		<string>Social Studies Education (E23.)</string>
+		<key>E25.</key>
+		<string>Early Childhood &amp; Elem Educ (E25.)</string>
+		<key>E26.</key>
+		<string>Literacy Education (E26.)</string>
+		<key>E27.</key>
+		<string>Teaching and Learning (E27.)</string>
+		<key>E29.</key>
+		<string>Multilingual/Multicultural Std (E29.)</string>
+		<key>E32.</key>
+		<string>Business Education (E32.)</string>
+		<key>E33.</key>
+		<string>Nutr/Food Studies/Publ Health (E33.)</string>
+		<key>E34.</key>
+		<string>Communicative Sci &amp; Disorders (E34.)</string>
+		<key>E36.</key>
+		<string>Science &amp; Math Education (E36.)</string>
+		<key>E40.</key>
+		<string>Occupational Therapy (E40.)</string>
+		<key>E44.</key>
+		<string>Physical Therapy (E44.)</string>
+		<key>E47.</key>
+		<string>Maintaining Matriculation (E47.)</string>
+		<key>E50.</key>
+		<string>Philosophy of Education (E50.)</string>
+		<key>E51.</key>
+		<string>Humanaties &amp; Soc Sci in Prof (E51.)</string>
+		<key>E52.</key>
+		<string>Liberal Arts Core (E52.)</string>
+		<key>E53.</key>
+		<string>International Education (E53.)</string>
+		<key>E54.</key>
+		<string>Jewish Education (E54.)</string>
+		<key>E55.</key>
+		<string>History of Education (E55.)</string>
+		<key>E57.</key>
+		<string>Media, Culture &amp; Comm-Doctoral (E57.)</string>
+		<key>E58.</key>
+		<string>Media, Culture &amp; Comm - GE (E58.)</string>
+		<key>E59.</key>
+		<string>Media, Culture &amp; Comm - UG (E59.)</string>
+		<key>E63.</key>
+		<string>Applied Psychology (E63.)</string>
+		<key>E64.</key>
+		<string>American Sign Language (E64.)</string>
+		<key>E65.</key>
+		<string>Educational Leadership (E65.)</string>
+		<key>E66.</key>
+		<string>Gender, Race &amp; Social Justice (E66.)</string>
+		<key>E67.</key>
+		<string>Performing Arts Administration (E67.)</string>
+		<key>E75.</key>
+		<string>Special Education (E75.)</string>
+		<key>E78.</key>
+		<string>Music and Performing Arts Prof (E78.)</string>
+		<key>E79.</key>
+		<string>Higher Educ Opportunities Pgm (E79.)</string>
+		<key>E85.</key>
+		<string>Music and Music Professions (E85.)</string>
+		<key>E86.</key>
+		<string>Drama Therapy (E86.)</string>
+		<key>E87.</key>
+		<string>Humanities Education (E87.)</string>
+		<key>E89.</key>
+		<string>Dance &amp; Dance Education (E89.)</string>
+		<key>E90.</key>
+		<string>Art (E90.)</string>
+		<key>E91.</key>
+		<string>Visual Arts Administration (E91.)</string>
+		<key>E94.</key>
+		<string>Art Theory &amp; Critical Studies (E94.)</string>
+		<key>E95.</key>
+		<string>Admin, Leadership &amp; Technology (E95.)</string>
+		<key>E97.</key>
+		<string>Art Therapy (E97.)</string>
+		<key>E98.</key>
+		<string>Higher Education (E98.)</string>
+	</dict>
+	<key>G</key>
+	<dict>
+		<key></key>
+		<string>(All Subject Areas)</string>
+		<key>G10.</key>
+		<string>Latin Amer-Caribbean Studies (G10.)</string>
+		<key>G11.</key>
+		<string>Africana Studies (G11.)</string>
+		<key>G13.</key>
+		<string>American Studies (G13.)</string>
+		<key>G14.</key>
+		<string>Anthropology (G14.)</string>
+		<key>G16.</key>
+		<string>Basic Medical Science (G16.)</string>
+		<key>G17.</key>
+		<string>Biomaterials (G17.)</string>
+		<key>G22.</key>
+		<string>Computer Science (G22.)</string>
+		<key>G23.</key>
+		<string>Biology (G23.)</string>
+		<key>G24.</key>
+		<string>Computational Biology (G24.)</string>
+		<key>G25.</key>
+		<string>Chemistry (G25.)</string>
+		<key>G27.</key>
+		<string>Classics (G27.)</string>
+		<key>G29.</key>
+		<string>Comparative Literature (G29.)</string>
+		<key>G31.</key>
+		<string>Economics (G31.)</string>
+		<key>G33.</key>
+		<string>East Asian Studies (G33.)</string>
+		<key>G39.</key>
+		<string>Creative Writing (G39.)</string>
+		<key>G41.</key>
+		<string>English (G41.)</string>
+		<key>G42.</key>
+		<string>European Studies (G42.)</string>
+		<key>G43.</key>
+		<string>Fine Arts (G43.)</string>
+		<key>G45.</key>
+		<string>French (G45.)</string>
+		<key>G46.</key>
+		<string>Institute of French Studies (G46.)</string>
+		<key>G47.</key>
+		<string>Maintaining Matriculation (G47.)</string>
+		<key>G48.</key>
+		<string>Environmental Health Science (G48.)</string>
+		<key>G49.</key>
+		<string>Museum Studies (G49.)</string>
+		<key>G51.</key>
+		<string>German (G51.)</string>
+		<key>G53.</key>
+		<string>Politics (G53.)</string>
+		<key>G54.</key>
+		<string>Journalism (G54.)</string>
+		<key>G57.</key>
+		<string>History (G57.)</string>
+		<key>G58.</key>
+		<string>Irish Studies (G58.)</string>
+		<key>G59.</key>
+		<string>Italian (G59.)</string>
+		<key>G61.</key>
+		<string>Linguistics (G61.)</string>
+		<key>G62.</key>
+		<string>Law and Society (G62.)</string>
+		<key>G63.</key>
+		<string>Mathematics (G63.)</string>
+		<key>G65.</key>
+		<string>Draper MA Program (G65.)</string>
+		<key>G68.</key>
+		<string>Near Eastern Studies (G68.)</string>
+		<key>G71.</key>
+		<string>Music (G71.)</string>
+		<key>G77.</key>
+		<string>Middle Eastern Studies (G77.)</string>
+		<key>G78.</key>
+		<string>Hebrew and Judaic Studies (G78.)</string>
+		<key>G80.</key>
+		<string>Neural Science (G80.)</string>
+		<key>G83.</key>
+		<string>Philosophy (G83.)</string>
+		<key>G84.</key>
+		<string>Bioethics (G84.)</string>
+		<key>G85.</key>
+		<string>Physics (G85.)</string>
+		<key>G87.</key>
+		<string>Portuguese (G87.)</string>
+		<key>G89.</key>
+		<string>Psychology (G89.)</string>
+		<key>G90.</key>
+		<string>Religious Studies (G90.)</string>
+		<key>G91.</key>
+		<string>Russian &amp; Slavic Studies (G91.)</string>
+		<key>G92.</key>
+		<string>Russian &amp; Slavic Studies (G92.)</string>
+		<key>G93.</key>
+		<string>Sociology (G93.)</string>
+		<key>G95.</key>
+		<string>Spanish (G95.)</string>
+		<key>G96.</key>
+		<string>Trauma &amp; Violence Studies (G96.)</string>
+	</dict>
+	<key>H</key>
+	<dict>
+		<key></key>
+		<string>(All Subject Areas)</string>
+		<key>H10.</key>
+		<string>Graduate Acting (H10.)</string>
+		<key>H14.</key>
+		<string>Dance (H14.)</string>
+		<key>H22.</key>
+		<string>Design (H22.)</string>
+		<key>H28.</key>
+		<string>Drama (H28.)</string>
+		<key>H42.</key>
+		<string>Performance Studies (H42.)</string>
+		<key>H48.</key>
+		<string>Ctr for Art, Society &amp; Pub Pol (H48.)</string>
+		<key>H49.</key>
+		<string>Interdisciplinary (H49.)</string>
+		<key>H56.</key>
+		<string>Undergrad Film &amp; TV (H56.)</string>
+		<key>H68.</key>
+		<string>Graduate Film &amp; TV (H68.)</string>
+		<key>H72.</key>
+		<string>Cinema Studies (H72.)</string>
+		<key>H79.</key>
+		<string>Interactive Telecommunications (H79.)</string>
+		<key>H80.</key>
+		<string>Dramatic Writing (H80.)</string>
+		<key>H81.</key>
+		<string>Musical Theatre (H81.)</string>
+		<key>H82.</key>
+		<string>Photography and Imaging (H82.)</string>
+		<key>H85.</key>
+		<string>Recorded Music (H85.)</string>
+		<key>H95.</key>
+		<string>Open Arts Curriculum (H95.)</string>
+	</dict>
+	<key>K</key>
+	<dict>
+		<key></key>
+		<string>(All Subject Areas)</string>
+		<key>K10.</key>
+		<string>First Year program (K10.)</string>
+		<key>K20.</key>
+		<string>Interdisciplinary Seminars (K20.)</string>
+		<key>K30.</key>
+		<string>Advanced Writing Courses (K30.)</string>
+		<key>K40.</key>
+		<string>Arts Workshops (K40.)</string>
+		<key>K45.</key>
+		<string>Community Learning (K45.)</string>
+		<key>K50.</key>
+		<string>Individualized Projects (K50.)</string>
+		<key>K55.</key>
+		<string>Gallatin Summer Study Abroad (K55.)</string>
+		<key>K70.</key>
+		<string>Core (K70.)</string>
+		<key>K80.</key>
+		<string>Electives (K80.)</string>
+		<key>K90.</key>
+		<string>Individualized Projects (K90.)</string>
+	</dict>
+	<key>N</key>
+	<dict>
+		<key></key>
+		<string>(All Subject Areas)</string>
+		<key>N41.</key>
+		<string>Nursing (N41.)</string>
+		<key>N47.</key>
+		<string>Maintaining Matricualtion (N47.)</string>
+	</dict>
+	<key>P</key>
+	<dict>
+		<key></key>
+		<string>(All Subject Areas)</string>
+		<key>P11.</key>
+		<string>Public Administration (P11.)</string>
+	</dict>
+	<key>S</key>
+	<dict>
+		<key></key>
+		<string>(All Subject Areas)</string>
+		<key>S03.</key>
+		<string>Undergrad Social Work (S03.)</string>
+		<key>S10.</key>
+		<string>Masters (S10.)</string>
+		<key>S44.</key>
+		<string>Masters (S44.)</string>
+		<key>S66.</key>
+		<string>Fieldwork (S66.)</string>
+		<key>S90.</key>
+		<string>Doctoral (S90.)</string>
+		<key>S99.</key>
+		<string>M.S.W. Elective (S99.)</string>
+	</dict>
+	<key>T</key>
+	<dict>
+		<key></key>
+		<string>(All Subject Areas)</string>
+		<key>T01.</key>
+		<string>Liberal Studies (T01.)</string>
+		<key>T02.</key>
+		<string>Liberal Studies (T02.)</string>
+		<key>T03.</key>
+		<string>Liberal Studies (T03.)</string>
+		<key>T04.</key>
+		<string>Liberal Studies (T04.)</string>
+		<key>T06.</key>
+		<string>Liberal Studies (T06.)</string>
+		<key>T07.</key>
+		<string>Liberal Studies (T07.)</string>
+		<key>T08.</key>
+		<string>Liberal Studies (T08.)</string>
+		<key>T09.</key>
+		<string>Liberal Studies (T09.)</string>
+	</dict>
+	<key>U</key>
+	<dict>
+		<key></key>
+		<string>(All Subject Areas)</string>
+		<key>U10.</key>
+		<string>Global Public Health (U10.)</string>
+		<key>U47.</key>
+		<string>Maintaining Matriculation (U47.)</string>
+	</dict>
+	<key>V</key>
+	<dict>
+		<key></key>
+		<string>(All Subject Areas)</string>
+		<key>V05.</key>
+		<string>Child/Adoles Mental Hlth Stds (V05.)</string>
+		<key>V09.</key>
+		<string>CAS Scholars Program (V09.)</string>
+		<key>V14.</key>
+		<string>Anthropology (V14.)</string>
+		<key>V18.</key>
+		<string>Social and Cultural Analysis (V18.)</string>
+		<key>V22.</key>
+		<string>Computer Science (V22.)</string>
+		<key>V23.</key>
+		<string>Biology (V23.)</string>
+		<key>V25.</key>
+		<string>Chemistry (V25.)</string>
+		<key>V27.</key>
+		<string>Classics (V27.)</string>
+		<key>V29.</key>
+		<string>Comparative Literature (V29.)</string>
+		<key>V30.</key>
+		<string>Dramatic Literature (V30.)</string>
+		<key>V31.</key>
+		<string>Economics (V31.)</string>
+		<key>V33.</key>
+		<string>East Asian Studies (V33.)</string>
+		<key>V36.</key>
+		<string>Environmental Studies (V36.)</string>
+		<key>V37.</key>
+		<string>Engineering Pgm with Stevens (V37.)</string>
+		<key>V39.</key>
+		<string>Creative Writing (V39.)</string>
+		<key>V40.</key>
+		<string>Expository Writing (V40.)</string>
+		<key>V41.</key>
+		<string>English (V41.)</string>
+		<key>V42.</key>
+		<string>European Studies (V42.)</string>
+		<key>V43.</key>
+		<string>Art History (V43.)</string>
+		<key>V45.</key>
+		<string>French (V45.)</string>
+		<key>V50.</key>
+		<string>Freshman Honors Seminars (V50.)</string>
+		<key>V51.</key>
+		<string>German (V51.)</string>
+		<key>V52.</key>
+		<string>International Relations (V52.)</string>
+		<key>V53.</key>
+		<string>Politics (V53.)</string>
+		<key>V54.</key>
+		<string>Journalism (V54.)</string>
+		<key>V55.</key>
+		<string>Morse Academic Plan (MAP) (V55.)</string>
+		<key>V56.</key>
+		<string>Hellenic Studies (V56.)</string>
+		<key>V57.</key>
+		<string>History (V57.)</string>
+		<key>V58.</key>
+		<string>Irish Studies (V58.)</string>
+		<key>V59.</key>
+		<string>Italian (V59.)</string>
+		<key>V61.</key>
+		<string>Linguistics (V61.)</string>
+		<key>V62.</key>
+		<string>Law and Society (V62.)</string>
+		<key>V63.</key>
+		<string>Math (V63.)</string>
+		<key>V65.</key>
+		<string>Medieval &amp; Renaissance Studies (V65.)</string>
+		<key>V70.</key>
+		<string>Collegiate Seminar Program (V70.)</string>
+		<key>V71.</key>
+		<string>Music (V71.)</string>
+		<key>V77.</key>
+		<string>Middle Eastern Studies (V77.)</string>
+		<key>V78.</key>
+		<string>Hebrew &amp; Judaic Studies (V78.)</string>
+		<key>V80.</key>
+		<string>Neural Science (V80.)</string>
+		<key>V83.</key>
+		<string>Philosophy (V83.)</string>
+		<key>V85.</key>
+		<string>Physics (V85.)</string>
+		<key>V87.</key>
+		<string>Portuguese (V87.)</string>
+		<key>V89.</key>
+		<string>Psychology (V89.)</string>
+		<key>V90.</key>
+		<string>Religious Studies (V90.)</string>
+		<key>V91.</key>
+		<string>Russian &amp; Slavic Studies (V91.)</string>
+		<key>V93.</key>
+		<string>Sociology (V93.)</string>
+		<key>V95.</key>
+		<string>Spanish (V95.)</string>
+	</dict>
+	<key>Y</key>
+	<dict>
+		<key></key>
+		<string>(All Subject Areas)</string>
+		<key>Y10.</key>
+		<string>Business (Y10.)</string>
+		<key>Y12.</key>
+		<string>Information Systems Management (Y12.)</string>
+		<key>Y13.</key>
+		<string>Health Administration (Y13.)</string>
+		<key>Y17.</key>
+		<string>Healthcare Management (Y17.)</string>
+		<key>Y18.</key>
+		<string>Information Systems Management (Y18.)</string>
+		<key>Y19.</key>
+		<string>Digital Communications &amp; Media (Y19.)</string>
+		<key>Y20.</key>
+		<string>Associate Liberal Arts (Y20.)</string>
+		<key>Y23.</key>
+		<string>Bachelor of Arts - Humanities (Y23.)</string>
+		<key>Y26.</key>
+		<string>Bach of Arts - Social Sciences (Y26.)</string>
+		<key>Y27.</key>
+		<string>Public Administration (Y27.)</string>
+		<key>Y35.</key>
+		<string>Digital Imaging &amp; Dsgn MA (Y35.)</string>
+		<key>Y36.</key>
+		<string>Graphic Communications (Y36.)</string>
+		<key>Y39.</key>
+		<string>Fundraising MS (Y39.)</string>
+		<key>Y41.</key>
+		<string>Adult Transition (Y41.)</string>
+		<key>Y42.</key>
+		<string>Management &amp; Systems MA/GC (Y42.)</string>
+		<key>Y49.</key>
+		<string>Public Relations MS (Y49.)</string>
+		<key>Y50.</key>
+		<string>Direct Marketing (Y50.)</string>
+		<key>Y52.</key>
+		<string>Management &amp; Systems MA/GC (Y52.)</string>
+		<key>Y54.</key>
+		<string>Tourism and Travel Mgmt. MA/GC (Y54.)</string>
+		<key>Y59.</key>
+		<string>Publishing Masters (Y59.)</string>
+		<key>Y62.</key>
+		<string>Real Estate (Y62.)</string>
+		<key>Y63.</key>
+		<string>Construction Management MA/GC (Y63.)</string>
+		<key>Y64.</key>
+		<string>Real Estate Masters/GC (Y64.)</string>
+		<key>Y65.</key>
+		<string>Hospitality Management MA/GC (Y65.)</string>
+		<key>Y66.</key>
+		<string>Hotel and Tourism Management (Y66.)</string>
+		<key>Y68.</key>
+		<string>Sports Mgmt &amp; Leisure Studies (Y68.)</string>
+		<key>Y70.</key>
+		<string>Sports Business Magmt. MA/GC (Y70.)</string>
+		<key>Z30.</key>
+		<string>American Language Institute (Z30.)</string>
+		<key>Z81.</key>
+		<string>Credit Analysis Diploma (Z81.)</string>
+		<key>Z83.</key>
+		<string>Paralegal Training (Z83.)</string>
+	</dict>
+</dict>
+</plist>

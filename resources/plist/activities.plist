@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IND</key>
+	<string>Independent</string>
+	<key>LEC</key>
+	<string>Lecture</string>
+	<key>SEM</key>
+	<string>Seminar</string>
+	<key>STU</key>
+	<string>Studio</string>
+	<key>WKS</key>
+	<string>Workshop</string>
+	<key>LAB</key>
+	<string>Lab</string>
+	<key>CLQ</key>
+	<string>Colloquium</string>
+	<key>RCT</key>
+	<string>Recitation</string>
+</dict>
+</plist>

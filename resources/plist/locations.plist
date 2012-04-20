@@ -1,0 +1,1554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>108B</key>
+	<dict>
+		<key>name</key>
+		<string>108 Broadway</string>
+		<key>lat</key>
+		<real>40.708344</real>
+		<key>long</key>
+		<real>-74.011225</real>
+	</dict>
+	<key>10WP</key>
+	<dict>
+		<key>name</key>
+		<string>10 Washington Place</string>
+		<key>lat</key>
+		<real>40.729331</real>
+		<key>long</key>
+		<real>-73.995006</real>
+	</dict>
+	<key>110F</key>
+	<dict>
+		<key>name</key>
+		<string>110 Fifth Avenue</string>
+		<key>lat</key>
+		<real>40.737674</real>
+		<key>long</key>
+		<real>-73.99290000000001</real>
+	</dict>
+	<key>113U</key>
+	<dict>
+		<key>name</key>
+		<string>113 University Place</string>
+		<key>lat</key>
+		<real>40.734274</real>
+		<key>long</key>
+		<real>-73.99207699999999</real>
+	</dict>
+	<key>11ST</key>
+	<dict>
+		<key>name</key>
+		<string>41 East 11th Street, 7th Floor</string>
+		<key>lat</key>
+		<real>40.733276</real>
+		<key>long</key>
+		<real>-73.993279</real>
+	</dict>
+	<key>12WV</key>
+	<dict>
+		<key>name</key>
+		<string>12 Waverly Place</string>
+		<key>lat</key>
+		<real>40.729936</real>
+		<key>long</key>
+		<real>-73.9945</real>
+	</dict>
+	<key>130M</key>
+	<dict>
+		<key>name</key>
+		<string>130 MacDougal Street</string>
+		<key>lat</key>
+		<real>40.730087</real>
+		<key>long</key>
+		<real>-73.999949</real>
+	</dict>
+	<key>133M</key>
+	<dict>
+		<key>name</key>
+		<string>130 MacDougal Street</string>
+		<key>lat</key>
+		<real>40.730087</real>
+		<key>long</key>
+		<real>-73.999949</real>
+	</dict>
+	<key>137M</key>
+	<dict>
+		<key>name</key>
+		<string>130 MacDougal Street</string>
+		<key>lat</key>
+		<real>40.730087</real>
+		<key>long</key>
+		<real>-73.999949</real>
+	</dict>
+	<key>142M</key>
+	<dict>
+		<key>name</key>
+		<string>142 Mulberry Street</string>
+		<key>lat</key>
+		<real>40.718755</real>
+		<key>long</key>
+		<real>-73.99726</real>
+	</dict>
+	<key>145F</key>
+	<dict>
+		<key>name</key>
+		<string>145 Fourth Avenue</string>
+		<key>lat</key>
+		<real>40.733887</real>
+		<key>long</key>
+		<real>-73.98982599999999</real>
+	</dict>
+	<key>14UP</key>
+	<dict>
+		<key>name</key>
+		<string>14 University Place</string>
+		<key>lat</key>
+		<real>40.73153</real>
+		<key>long</key>
+		<real>-73.994831</real>
+	</dict>
+	<key>15ST</key>
+	<dict>
+		<key>name</key>
+		<string>345 East 15th Street</string>
+		<key>lat</key>
+		<real>40.732277</real>
+		<key>long</key>
+		<real>-73.982657</real>
+	</dict>
+	<key>1633</key>
+	<dict>
+		<key>name</key>
+		<string>1633 Broadway</string>
+		<key>lat</key>
+		<real>40.761868</real>
+		<key>long</key>
+		<real>-73.98376</real>
+	</dict>
+	<key>194M</key>
+	<dict>
+		<key>name</key>
+		<string>194 Mercer Street</string>
+		<key>lat</key>
+		<real>40.725633</real>
+		<key>long</key>
+		<real>-73.99773</real>
+	</dict>
+	<key>199L</key>
+	<dict>
+		<key>name</key>
+		<string>199 Lafayette Street</string>
+		<key>lat</key>
+		<real>40.721277</real>
+		<key>long</key>
+		<real>-73.998009</real>
+	</dict>
+	<key>19UP</key>
+	<dict>
+		<key>name</key>
+		<string>19 University Place</string>
+		<key>lat</key>
+		<real>40.731547</real>
+		<key>long</key>
+		<real>-73.994817</real>
+	</dict>
+	<key>19W4</key>
+	<dict>
+		<key>name</key>
+		<string>19 West 4th Street</string>
+		<key>lat</key>
+		<real>40.728983</real>
+		<key>long</key>
+		<real>-73.995394</real>
+	</dict>
+	<key>1E78</key>
+	<dict>
+		<key>name</key>
+		<string>The Institue Of Fine Arts, 1 East 78th Street</string>
+		<key>lat</key>
+		<real>40.776301</real>
+		<key>long</key>
+		<real>-73.96417700000001</real>
+	</dict>
+	<key>1WP</key>
+	<dict>
+		<key>name</key>
+		<string>1 Washington Place</string>
+		<key>lat</key>
+		<real>40.729072</real>
+		<key>long</key>
+		<real>-73.993859</real>
+	</dict>
+	<key>1WSN</key>
+	<dict>
+		<key>name</key>
+		<string>1 Washington Square North</string>
+		<key>lat</key>
+		<real>40.731102</real>
+		<key>long</key>
+		<real>-73.995548</real>
+	</dict>
+	<key>20CS</key>
+	<dict>
+		<key>name</key>
+		<string>20 Cooper Square</string>
+		<key>lat</key>
+		<real>40.727911</real>
+		<key>long</key>
+		<real>-73.991359</real>
+	</dict>
+	<key>214M</key>
+	<dict>
+		<key>name</key>
+		<string>214 Mercer Street</string>
+		<key>lat</key>
+		<real>40.727002</real>
+		<key>long</key>
+		<real>-73.99658599999999</real>
+	</dict>
+	<key>240G</key>
+	<dict>
+		<key>name</key>
+		<string>240 Greene Street</string>
+		<key>lat</key>
+		<real>40.729597</real>
+		<key>long</key>
+		<real>-73.99544899999999</real>
+	</dict>
+	<key>240M</key>
+	<dict>
+		<key>name</key>
+		<string>240 Mercer Street</string>
+		<key>lat</key>
+		<real>40.727735</real>
+		<key>long</key>
+		<real>-73.995965</real>
+	</dict>
+	<key>245S</key>
+	<dict>
+		<key>name</key>
+		<string>245 Sullivan Street</string>
+		<key>lat</key>
+		<real>40.729995</real>
+		<key>long</key>
+		<real>-73.999409</real>
+	</dict>
+	<key>246G</key>
+	<dict>
+		<key>name</key>
+		<string>246 Greene Street</string>
+		<key>lat</key>
+		<real>40.730065</real>
+		<key>long</key>
+		<real>-73.995057</real>
+	</dict>
+	<key>25W4</key>
+	<dict>
+		<key>name</key>
+		<string>25 West 4th Street</string>
+		<key>lat</key>
+		<real>40.729079</real>
+		<key>long</key>
+		<real>-73.99558500000001</real>
+	</dict>
+	<key>25WV</key>
+	<dict>
+		<key>name</key>
+		<string>25 Waverly Place</string>
+		<key>lat</key>
+		<real>40.730589</real>
+		<key>long</key>
+		<real>-73.994777</real>
+	</dict>
+	<key>269M</key>
+	<dict>
+		<key>name</key>
+		<string>269 Mercer Street</string>
+		<key>lat</key>
+		<real>40.72834</real>
+		<key>long</key>
+		<real>-73.995459</real>
+	</dict>
+	<key>285M</key>
+	<dict>
+		<key>name</key>
+		<string>285 Mercer Street</string>
+		<key>lat</key>
+		<real>40.728583</real>
+		<key>long</key>
+		<real>-73.995248</real>
+	</dict>
+	<key>295L</key>
+	<dict>
+		<key>name</key>
+		<string>295 Lafayette Street</string>
+		<key>lat</key>
+		<real>40.724691</real>
+		<key>long</key>
+		<real>-73.9956</real>
+	</dict>
+	<key>29WW</key>
+	<dict>
+		<key>name</key>
+		<string>29 Washington Square East</string>
+		<key>lat</key>
+		<real>40.732113</real>
+		<key>long</key>
+		<real>-73.99906300000001</real>
+	</dict>
+	<key>2AVE</key>
+	<dict>
+		<key>name</key>
+		<string>111 Second Avenue</string>
+		<key>lat</key>
+		<real>40.727774</real>
+		<key>long</key>
+		<real>-73.98825600000001</real>
+	</dict>
+	<key>2UP</key>
+	<dict>
+		<key>name</key>
+		<string>2 University Place</string>
+		<key>lat</key>
+		<real>40.730791</real>
+		<key>long</key>
+		<real>-73.995496</real>
+	</dict>
+	<key>2WSN</key>
+	<dict>
+		<key>name</key>
+		<string>2 Washington Square North</string>
+		<key>lat</key>
+		<real>40.730865</real>
+		<key>long</key>
+		<real>-73.99582700000001</real>
+	</dict>
+	<key>333A</key>
+	<dict>
+		<key>name</key>
+		<string>33 Third Avenue</string>
+		<key>lat</key>
+		<real>40.730578</real>
+		<key>long</key>
+		<real>-73.989159</real>
+	</dict>
+	<key>342E</key>
+	<dict>
+		<key>name</key>
+		<string>342 East 26th Street, Room 200A</string>
+		<key>lat</key>
+		<real>40.738969</real>
+		<key>long</key>
+		<real>-73.97759600000001</real>
+	</dict>
+	<key>345E</key>
+	<dict>
+		<key>name</key>
+		<string>345 East 24th Street</string>
+		<key>lat</key>
+		<real>40.737748</real>
+		<key>long</key>
+		<real>-73.9785</real>
+	</dict>
+	<key>3-5W</key>
+	<dict>
+		<key>name</key>
+		<string>3-5 Washington Place</string>
+		<key>lat</key>
+		<real>40.729336</real>
+		<key>long</key>
+		<real>-73.994409</real>
+	</dict>
+	<key>380S</key>
+	<dict>
+		<key>name</key>
+		<string>380 Second Avenue, 4th Floor</string>
+		<key>lat</key>
+		<real>40.737186</real>
+		<key>long</key>
+		<real>-73.98140600000001</real>
+	</dict>
+	<key>383L</key>
+	<dict>
+		<key>name</key>
+		<string>383 Lafayette Street</string>
+		<key>lat</key>
+		<real>40.727472</real>
+		<key>long</key>
+		<real>-73.992918</real>
+	</dict>
+	<key>3AVN</key>
+	<dict>
+		<key>name</key>
+		<string>Third Avenue North Dormitory</string>
+		<key>lat</key>
+		<real>40.731992</real>
+		<key>long</key>
+		<real>-73.98813199999999</real>
+	</dict>
+	<key>3WSN</key>
+	<dict>
+		<key>name</key>
+		<string>3 Washington Square North</string>
+		<key>lat</key>
+		<real>40.730893</real>
+		<key>long</key>
+		<real>-73.995884</real>
+	</dict>
+	<key>411L</key>
+	<dict>
+		<key>name</key>
+		<string>411 Lafayette Street</string>
+		<key>lat</key>
+		<real>40.728569</real>
+		<key>long</key>
+		<real>-73.992491</real>
+	</dict>
+	<key>412W</key>
+	<dict>
+		<key>name</key>
+		<string>412 West 42nd Street, Playwright Theatre</string>
+		<key>lat</key>
+		<real>40.758454</real>
+		<key>long</key>
+		<real>-73.993483</real>
+	</dict>
+	<key>420W</key>
+	<dict>
+		<key>name</key>
+		<string>420 West 42nd Street</string>
+		<key>lat</key>
+		<real>40.758582</real>
+		<key>long</key>
+		<real>-73.993798</real>
+	</dict>
+	<key>423E</key>
+	<dict>
+		<key>name</key>
+		<string>Veterans Administration Hospital, 423 East 23rd Street</string>
+		<key>lat</key>
+		<real>40.736107</real>
+		<key>long</key>
+		<real>-73.97669</real>
+	</dict>
+	<key>440L</key>
+	<dict>
+		<key>name</key>
+		<string>440 Lafayette Street</string>
+		<key>lat</key>
+		<real>40.729641</real>
+		<key>long</key>
+		<real>-73.991591</real>
+	</dict>
+	<key>44CP</key>
+	<dict>
+		<key>name</key>
+		<string>44 Central Park West</string>
+		<key>lat</key>
+		<real>40.771477</real>
+		<key>long</key>
+		<real>-73.979427</real>
+	</dict>
+	<key>48CS</key>
+	<dict>
+		<key>name</key>
+		<string>48 Cooper Square</string>
+		<key>lat</key>
+		<real>40.72877</real>
+		<key>long</key>
+		<real>-73.99108200000001</real>
+	</dict>
+	<key>4WP</key>
+	<dict>
+		<key>name</key>
+		<string>4 Washington Place</string>
+		<key>lat</key>
+		<real>40.729143</real>
+		<key>long</key>
+		<real>-73.994478</real>
+	</dict>
+	<key>4WSN</key>
+	<dict>
+		<key>name</key>
+		<string>4 Washington Square North</string>
+		<key>lat</key>
+		<real>40.731182</real>
+		<key>long</key>
+		<real>-73.995721</real>
+	</dict>
+	<key>50WS</key>
+	<dict>
+		<key>name</key>
+		<string>50 Washington Square South</string>
+		<key>lat</key>
+		<real>40.730453</real>
+		<key>long</key>
+		<real>-73.99841000000001</real>
+	</dict>
+	<key>51WS</key>
+	<dict>
+		<key>name</key>
+		<string>51 Washington Square South</string>
+		<key>lat</key>
+		<real>40.730319</real>
+		<key>long</key>
+		<real>-73.998729</real>
+	</dict>
+	<key>53WS</key>
+	<dict>
+		<key>name</key>
+		<string>53 Washington Square South</string>
+		<key>lat</key>
+		<real>40.730453</real>
+		<key>long</key>
+		<real>-73.998411</real>
+	</dict>
+	<key>5WP</key>
+	<dict>
+		<key>name</key>
+		<string>5 Washington Place</string>
+		<key>lat</key>
+		<real>40.729336</real>
+		<key>long</key>
+		<real>-73.994409</real>
+	</dict>
+	<key>5WSN</key>
+	<dict>
+		<key>name</key>
+		<string>5 Washington Square North</string>
+		<key>lat</key>
+		<real>40.731222</real>
+		<key>long</key>
+		<real>-73.995808</real>
+	</dict>
+	<key>622B</key>
+	<dict>
+		<key>name</key>
+		<string>622 Broadway</string>
+		<key>lat</key>
+		<real>40.725783</real>
+		<key>long</key>
+		<real>-73.99593900000001</real>
+	</dict>
+	<key>686B</key>
+	<dict>
+		<key>name</key>
+		<string>686 Broadway</string>
+		<key>lat</key>
+		<real>40.727882</real>
+		<key>long</key>
+		<real>-73.994203</real>
+	</dict>
+	<key>6WP</key>
+	<dict>
+		<key>name</key>
+		<string>6 Washington Place</string>
+		<key>lat</key>
+		<real>40.729336</real>
+		<key>long</key>
+		<real>-73.994409</real>
+	</dict>
+	<key>715B</key>
+	<dict>
+		<key>name</key>
+		<string>715 Broadway</string>
+		<key>lat</key>
+		<real>40.729504</real>
+		<key>long</key>
+		<real>-73.993877</real>
+	</dict>
+	<key>719B</key>
+	<dict>
+		<key>name</key>
+		<string>719 Broadway</string>
+		<key>lat</key>
+		<real>40.729364</real>
+		<key>long</key>
+		<real>-73.993427</real>
+	</dict>
+	<key>721B</key>
+	<dict>
+		<key>name</key>
+		<string>721 Broadway</string>
+		<key>lat</key>
+		<real>40.72939</real>
+		<key>long</key>
+		<real>-73.993405</real>
+	</dict>
+	<key>725B</key>
+	<dict>
+		<key>name</key>
+		<string>725 Broadway</string>
+		<key>lat</key>
+		<real>40.729442</real>
+		<key>long</key>
+		<real>-73.99336099999999</real>
+	</dict>
+	<key>726B</key>
+	<dict>
+		<key>name</key>
+		<string>726 Broadway</string>
+		<key>lat</key>
+		<real>40.729106</real>
+		<key>long</key>
+		<real>-73.99290499999999</real>
+	</dict>
+	<key>75VA</key>
+	<dict>
+		<key>name</key>
+		<string>75 Varick Street (At Canal Street)</string>
+		<key>lat</key>
+		<real>40.72276</real>
+		<key>long</key>
+		<real>-74.006272</real>
+	</dict>
+	<key>7E12</key>
+	<dict>
+		<key>name</key>
+		<string>7 East 12th Street, Fairchild Building</string>
+		<key>lat</key>
+		<real>40.734533</real>
+		<key>long</key>
+		<real>-73.99366499999999</real>
+	</dict>
+	<key>80WS</key>
+	<dict>
+		<key>name</key>
+		<string>80 Washington Square East Gallery</string>
+		<key>lat</key>
+		<real>40.729775</real>
+		<key>long</key>
+		<real>-73.996363</real>
+	</dict>
+	<key>85W3</key>
+	<dict>
+		<key>name</key>
+		<string>85 West Third Street</string>
+		<key>lat</key>
+		<real>40.729804</real>
+		<key>long</key>
+		<real>-73.99883800000001</real>
+	</dict>
+	<key>890B</key>
+	<dict>
+		<key>name</key>
+		<string>890 Broadway</string>
+		<key>lat</key>
+		<real>40.738547</real>
+		<key>long</key>
+		<real>-73.989915</real>
+	</dict>
+	<key>AHCT</key>
+	<dict>
+		<key>name</key>
+		<string>Allied Health Center</string>
+		<key>lat</key>
+		<real>40.740415</real>
+		<key>long</key>
+		<real>-73.97600799999999</real>
+	</dict>
+	<key>ALUM</key>
+	<dict>
+		<key>name</key>
+		<string>Alumni Hall</string>
+		<key>lat</key>
+		<real>40.730578</real>
+		<key>long</key>
+		<real>-73.989159</real>
+	</dict>
+	<key>AMAR</key>
+	<dict>
+		<key>name</key>
+		<string>American Arbitration Association</string>
+		<key>lat</key>
+		<real>40.707158</real>
+		<key>long</key>
+		<real>-74.012163</real>
+	</dict>
+	<key>BARN</key>
+	<dict>
+		<key>name</key>
+		<string>Barney Building</string>
+		<key>lat</key>
+		<real>40.72981</real>
+		<key>long</key>
+		<real>-73.987959</real>
+	</dict>
+	<key>BERK</key>
+	<dict>
+		<key>name</key>
+		<string>Berkley School</string>
+		<key>lat</key>
+		<real>42.931672</real>
+		<key>long</key>
+		<real>-74.204392</real>
+	</dict>
+	<key>BOBS</key>
+	<dict>
+		<key>name</key>
+		<string>Bobst Library</string>
+		<key>lat</key>
+		<real>40.7294</real>
+		<key>long</key>
+		<real>-73.9973</real>
+	</dict>
+	<key>BOST</key>
+	<dict>
+		<key>name</key>
+		<string>24 Bond Street</string>
+		<key>lat</key>
+		<real>40.726671</real>
+		<key>long</key>
+		<real>-73.993639</real>
+	</dict>
+	<key>BRNF</key>
+	<dict>
+		<key>name</key>
+		<string>Bronfman Center</string>
+		<key>lat</key>
+		<real>40.733298</real>
+		<key>long</key>
+		<real>-73.99464399999999</real>
+	</dict>
+	<key>BRWN</key>
+	<dict>
+		<key>name</key>
+		<string>Brown Building</string>
+		<key>lat</key>
+		<real>40.729932</real>
+		<key>long</key>
+		<real>-73.99562400000001</real>
+	</dict>
+	<key>BSCI</key>
+	<dict>
+		<key>name</key>
+		<string>Basic Science Building, 433 First Avenue</string>
+		<key>lat</key>
+		<real>40.738774</real>
+		<key>long</key>
+		<real>-73.977572</real>
+	</dict>
+	<key>BUTR</key>
+	<dict>
+		<key>name</key>
+		<string>Butterick Building</string>
+		<key>lat</key>
+		<real>40.725899</real>
+		<key>long</key>
+		<real>-74.004299</real>
+	</dict>
+	<key>BXPH</key>
+	<dict>
+		<key>name</key>
+		<string>Bronx Psychiatric Hospital</string>
+		<key>lat</key>
+		<real>40.845316</real>
+		<key>long</key>
+		<real>-73.840834</real>
+	</dict>
+	<key>CANT</key>
+	<dict>
+		<key>name</key>
+		<string>Cantor Film Center</string>
+		<key>lat</key>
+		<real>40.731163</real>
+		<key>long</key>
+		<real>-73.994444</real>
+	</dict>
+	<key>CARD</key>
+	<dict>
+		<key>name</key>
+		<string>Cardozo Law</string>
+		<key>lat</key>
+		<real>40.734722</real>
+		<key>long</key>
+		<real>-73.994078</real>
+	</dict>
+	<key>CASA</key>
+	<dict>
+		<key>name</key>
+		<string>24 West 12th Street, Casa Italiana</string>
+		<key>lat</key>
+		<real>40.73493</real>
+		<key>long</key>
+		<real>-73.99589</real>
+	</dict>
+	<key>CHAN</key>
+	<dict>
+		<key>name</key>
+		<string>Chan House</string>
+		<key>lat</key>
+		<real>40.775792</real>
+		<key>long</key>
+		<real>-73.96357399999999</real>
+	</dict>
+	<key>CIWW</key>
+	<dict>
+		<key>name</key>
+		<string>Courant Institute / Warren Weaver Hall</string>
+		<key>lat</key>
+		<real>40.728698</real>
+		<key>long</key>
+		<real>-73.99561799999999</real>
+	</dict>
+	<key>COLE</key>
+	<dict>
+		<key>name</key>
+		<string>Coles Sports and Recreation Center</string>
+		<key>lat</key>
+		<real>40.72558</real>
+		<key>long</key>
+		<real>-73.997775</real>
+	</dict>
+	<key>COLU</key>
+	<dict>
+		<key>name</key>
+		<string>Columbia University</string>
+		<key>lat</key>
+		<real>40.808224</real>
+		<key>long</key>
+		<real>-73.961889</real>
+	</dict>
+	<key>COOP</key>
+	<dict>
+		<key>name</key>
+		<string>Cooper Union</string>
+		<key>lat</key>
+		<real>40.729435</real>
+		<key>long</key>
+		<real>-73.990595</real>
+	</dict>
+	<key>CUNY</key>
+	<dict>
+		<key>name</key>
+		<string>CUNY - City University of New York</string>
+		<key>lat</key>
+		<real>40.820494</real>
+		<key>long</key>
+		<real>-73.948306</real>
+	</dict>
+	<key>DAGA</key>
+	<dict>
+		<key>name</key>
+		<string>D’Agostino Hall</string>
+		<key>lat</key>
+		<real>40.730428</real>
+		<key>long</key>
+		<real>-74.00012700000001</real>
+	</dict>
+	<key>DALT</key>
+	<dict>
+		<key>name</key>
+		<string>Dalton School</string>
+		<key>lat</key>
+		<real>40.778552</real>
+		<key>long</key>
+		<real>-73.951241</real>
+	</dict>
+	<key>DEUT</key>
+	<dict>
+		<key>name</key>
+		<string>Deutsches Haus</string>
+		<key>lat</key>
+		<real>40.73145</real>
+		<key>long</key>
+		<real>-73.99568600000001</real>
+	</dict>
+	<key>DOMN</key>
+	<dict>
+		<key>name</key>
+		<string>Dominican College</string>
+		<key>lat</key>
+		<real>41.05349</real>
+		<key>long</key>
+		<real>-73.955257</real>
+	</dict>
+	<key>DOWL</key>
+	<dict>
+		<key>name</key>
+		<string>Dowling College</string>
+		<key>lat</key>
+		<real>40.742152</real>
+		<key>long</key>
+		<real>-73.14831599999999</real>
+	</dict>
+	<key>DUKE</key>
+	<dict>
+		<key>name</key>
+		<string>Duke House</string>
+		<key>lat</key>
+		<real>40.776301</real>
+		<key>long</key>
+		<real>-73.96417700000001</real>
+	</dict>
+	<key>E 15</key>
+	<dict>
+		<key>name</key>
+		<string>115 East 15th Street</string>
+		<key>lat</key>
+		<real>40.735128</real>
+		<key>long</key>
+		<real>-73.98869000000001</real>
+	</dict>
+	<key>E 34</key>
+	<dict>
+		<key>name</key>
+		<string>317 East 34th Street</string>
+		<key>lat</key>
+		<real>40.74442</real>
+		<key>long</key>
+		<real>-73.975024</real>
+	</dict>
+	<key>E 7</key>
+	<dict>
+		<key>name</key>
+		<string>38-40 East 7th Street</string>
+		<key>lat</key>
+		<real>40.728089</real>
+		<key>long</key>
+		<real>-73.988905</real>
+	</dict>
+	<key>EAST</key>
+	<dict>
+		<key>name</key>
+		<string>East Building</string>
+		<key>lat</key>
+		<real>40.72948</real>
+		<key>long</key>
+		<real>-73.995548</real>
+	</dict>
+	<key>EDUC</key>
+	<dict>
+		<key>name</key>
+		<string>Education Building</string>
+		<key>lat</key>
+		<real>40.729477</real>
+		<key>long</key>
+		<real>-73.995892</real>
+	</dict>
+	<key>ERIN</key>
+	<dict>
+		<key>name</key>
+		<string>Ireland House</string>
+		<key>lat</key>
+		<real>40.732104</real>
+		<key>long</key>
+		<real>-73.99775099999999</real>
+	</dict>
+	<key>FHBG</key>
+	<dict>
+		<key>name</key>
+		<string>Fuchsberg Hall, 249 Sullivan Street</string>
+		<key>lat</key>
+		<real>40.730066</real>
+		<key>long</key>
+		<real>-73.99935000000001</real>
+	</dict>
+	<key>FORD</key>
+	<dict>
+		<key>name</key>
+		<string>Fordham University</string>
+		<key>lat</key>
+		<real>40.862243</real>
+		<key>long</key>
+		<real>-73.886392</real>
+	</dict>
+	<key>FRND</key>
+	<dict>
+		<key>name</key>
+		<string>Friends Seminary</string>
+		<key>lat</key>
+		<real>40.734283</real>
+		<key>long</key>
+		<real>-73.98541899999999</real>
+	</dict>
+	<key>FURH</key>
+	<dict>
+		<key>name</key>
+		<string>J. Furman Hall</string>
+		<key>lat</key>
+		<real>40.729995</real>
+		<key>long</key>
+		<real>-73.999409</real>
+	</dict>
+	<key>GIBB</key>
+	<dict>
+		<key>name</key>
+		<string>Katherine Gibbs</string>
+		<key>lat</key>
+		<real>40.762939</real>
+		<key>long</key>
+		<real>-73.96898400000001</real>
+	</dict>
+	<key>GODD</key>
+	<dict>
+		<key>name</key>
+		<string>Paulette Goddard Hall</string>
+		<key>lat</key>
+		<real>40.729642</real>
+		<key>long</key>
+		<real>-73.996478</real>
+	</dict>
+	<key>HADY</key>
+	<dict>
+		<key>name</key>
+		<string>Hayden Hall</string>
+		<key>lat</key>
+		<real>40.731645</real>
+		<key>long</key>
+		<real>-73.999577</real>
+	</dict>
+	<key>HEBU</key>
+	<dict>
+		<key>name</key>
+		<string>Hebrew Union College</string>
+		<key>lat</key>
+		<real>34.026032</real>
+		<key>long</key>
+		<real>-118.282528</real>
+	</dict>
+	<key>HJTD</key>
+	<dict>
+		<key>name</key>
+		<string>Hospital for Joint Diseases</string>
+		<key>lat</key>
+		<real>41.801585</real>
+		<key>long</key>
+		<real>-89.695533</real>
+	</dict>
+	<key>ICPH</key>
+	<dict>
+		<key>name</key>
+		<string>International Center for Photography</string>
+		<key>lat</key>
+		<real>40.756071</real>
+		<key>long</key>
+		<real>-73.98392</real>
+	</dict>
+	<key>IFST</key>
+	<dict>
+		<key>name</key>
+		<string>Institute of French Studies</string>
+		<key>lat</key>
+		<real>40.731296</real>
+		<key>long</key>
+		<real>-73.995327</real>
+	</dict>
+	<key>IRMD</key>
+	<dict>
+		<key>name</key>
+		<string>Institute of Rehabilitation Medicine</string>
+		<key>lat</key>
+		<real>40.742866</real>
+		<key>long</key>
+		<real>-73.97425200000001</real>
+	</dict>
+	<key>KAPL</key>
+	<dict>
+		<key>name</key>
+		<string>Kaplan Education Center, 16 Cooper Square</string>
+		<key>lat</key>
+		<real>40.727916</real>
+		<key>long</key>
+		<real>-73.991733</real>
+	</dict>
+	<key>KEVO</key>
+	<dict>
+		<key>name</key>
+		<string>Kevorkian Center</string>
+		<key>lat</key>
+		<real>40.730453</real>
+		<key>long</key>
+		<real>-73.99841000000001</real>
+	</dict>
+	<key>KIMB</key>
+	<dict>
+		<key>name</key>
+		<string>Kimball Hall</string>
+		<key>lat</key>
+		<real>40.730065</real>
+		<key>long</key>
+		<real>-73.995057</real>
+	</dict>
+	<key>KIMM</key>
+	<dict>
+		<key>name</key>
+		<string>Helen and Martin Kimmel University Center</string>
+		<key>lat</key>
+		<real>40.730157</real>
+		<key>long</key>
+		<real>-73.99781</real>
+	</dict>
+	<key>KJCC</key>
+	<dict>
+		<key>name</key>
+		<string>King Juan Carlos Center</string>
+		<key>lat</key>
+		<real>40.730453</real>
+		<key>long</key>
+		<real>-73.998411</real>
+	</dict>
+	<key>KMEC</key>
+	<dict>
+		<key>name</key>
+		<string>Henry Kaufman Management Education Center</string>
+		<key>lat</key>
+		<real>40.729006</real>
+		<key>long</key>
+		<real>-73.996469</real>
+	</dict>
+	<key>LENX</key>
+	<dict>
+		<key>name</key>
+		<string>Lenox Hill Hospital, 77th Street &amp; Park Avenue</string>
+		<key>lat</key>
+		<real>40.774283</real>
+		<key>long</key>
+		<real>-73.96135200000001</real>
+	</dict>
+	<key>LINC</key>
+	<dict>
+		<key>name</key>
+		<string>Lincoln Center</string>
+		<key>lat</key>
+		<integer>0</integer>
+		<key>long</key>
+		<integer>0</integer>
+	</dict>
+	<key>LIOM</key>
+	<dict>
+		<key>name</key>
+		<string>Lab Institute of Merchandising</string>
+		<key>lat</key>
+		<real>40.759829</real>
+		<key>long</key>
+		<real>-73.975049</real>
+	</dict>
+	<key>LITE</key>
+	<dict>
+		<key>name</key>
+		<string>Lighthouse, 111 East 59th Street</string>
+		<key>lat</key>
+		<real>40.762939</real>
+		<key>long</key>
+		<real>-73.96898400000001</real>
+	</dict>
+	<key>MANV</key>
+	<dict>
+		<key>name</key>
+		<string>Manhattanville</string>
+		<key>lat</key>
+		<real>41.025256</real>
+		<key>long</key>
+		<real>-73.71583099999999</real>
+	</dict>
+	<key>MAVA</key>
+	<dict>
+		<key>name</key>
+		<string>Manhattan Village Academy, 43 West 22nd Street</string>
+		<key>lat</key>
+		<real>40.741802</real>
+		<key>long</key>
+		<real>-73.99227399999999</real>
+	</dict>
+	<key>MECH</key>
+	<dict>
+		<key>name</key>
+		<string>Mechanics Institute</string>
+		<key>lat</key>
+		<real>43.083939</real>
+		<key>long</key>
+		<real>-77.676191</real>
+	</dict>
+	<key>MEDS</key>
+	<dict>
+		<key>name</key>
+		<string>NYU Medical Center</string>
+		<key>lat</key>
+		<real>40.742004</real>
+		<key>long</key>
+		<real>-73.974221</real>
+	</dict>
+	<key>MEYR</key>
+	<dict>
+		<key>name</key>
+		<string>Meyer Hall</string>
+		<key>lat</key>
+		<real>40.729143</real>
+		<key>long</key>
+		<real>-73.994478</real>
+	</dict>
+	<key>MIDC</key>
+	<dict>
+		<key>name</key>
+		<string>NYU Midtown Center</string>
+		<key>lat</key>
+		<real>40.729427</real>
+		<key>long</key>
+		<real>-73.99731800000001</real>
+	</dict>
+	<key>MTMU</key>
+	<dict>
+		<key>name</key>
+		<string>Metropolitan Museum of Art</string>
+		<key>lat</key>
+		<real>40.779077</real>
+		<key>long</key>
+		<real>-73.962583</real>
+	</dict>
+	<key>NTCT</key>
+	<dict>
+		<key>name</key>
+		<string>Norman Thomas High School</string>
+		<key>lat</key>
+		<real>40.74648</real>
+		<key>long</key>
+		<real>-73.98106300000001</real>
+	</dict>
+	<key>NYBG</key>
+	<dict>
+		<key>name</key>
+		<string>New York Botanical Garden</string>
+		<key>lat</key>
+		<real>40.866555</real>
+		<key>long</key>
+		<real>-73.883109</real>
+	</dict>
+	<key>OIOC</key>
+	<dict>
+		<key>name</key>
+		<string>63 Downing Street</string>
+		<key>lat</key>
+		<real>40.729253</real>
+		<key>long</key>
+		<real>-74.004774</real>
+	</dict>
+	<key>ONAS</key>
+	<dict>
+		<key>name</key>
+		<string>58 West 10th Street</string>
+		<key>lat</key>
+		<real>40.734285</real>
+		<key>long</key>
+		<real>-73.99794199999999</real>
+	</dict>
+	<key>PALL</key>
+	<dict>
+		<key>name</key>
+		<string>The Palladium Residence Hall</string>
+		<key>lat</key>
+		<real>40.733614</real>
+		<key>long</key>
+		<real>-73.987943</real>
+	</dict>
+	<key>PANX</key>
+	<dict>
+		<key>name</key>
+		<string>Pless Annex</string>
+		<key>lat</key>
+		<real>40.729865</real>
+		<key>long</key>
+		<real>-73.99603</real>
+	</dict>
+	<key>PLSS</key>
+	<dict>
+		<key>name</key>
+		<string>Pless Building</string>
+		<key>lat</key>
+		<real>40.729865</real>
+		<key>long</key>
+		<real>-73.99603</real>
+	</dict>
+	<key>POST</key>
+	<dict>
+		<key>name</key>
+		<string>C.W. Post</string>
+		<key>lat</key>
+		<real>40.812703</real>
+		<key>long</key>
+		<real>-73.616561</real>
+	</dict>
+	<key>PREV</key>
+	<dict>
+		<key>name</key>
+		<string>Preventative Medicine Building</string>
+		<key>lat</key>
+		<integer>0</integer>
+		<key>long</key>
+		<integer>0</integer>
+	</dict>
+	<key>PUBL</key>
+	<dict>
+		<key>name</key>
+		<string>Public Health</string>
+		<key>lat</key>
+		<integer>0</integer>
+		<key>long</key>
+		<integer>0</integer>
+	</dict>
+	<key>PUER</key>
+	<dict>
+		<key>name</key>
+		<string>Puerto Rico</string>
+		<key>lat</key>
+		<integer>0</integer>
+		<key>long</key>
+		<integer>0</integer>
+	</dict>
+	<key>RUSK</key>
+	<dict>
+		<key>name</key>
+		<string>Rusk Institute, East 34th Street &amp; First Avenue</string>
+		<key>lat</key>
+		<real>40.743786</real>
+		<key>long</key>
+		<real>-73.973517</real>
+	</dict>
+	<key>SALW</key>
+	<dict>
+		<key>name</key>
+		<string>Sarah Lawrence College</string>
+		<key>lat</key>
+		<real>40.935075</real>
+		<key>long</key>
+		<real>-73.843823</real>
+	</dict>
+	<key>SFOR</key>
+	<dict>
+		<key>name</key>
+		<string>Sterling Forest</string>
+		<key>lat</key>
+		<integer>0</integer>
+		<key>long</key>
+		<integer>0</integer>
+	</dict>
+	<key>SHDS</key>
+	<dict>
+		<key>name</key>
+		<string>Schwartz Hall of Dental Science</string>
+		<key>lat</key>
+		<real>40.737748</real>
+		<key>long</key>
+		<real>-73.9785</real>
+	</dict>
+	<key>SHIM</key>
+	<dict>
+		<key>name</key>
+		<string>Shimkin Hall</string>
+		<key>lat</key>
+		<real>40.729388</real>
+		<key>long</key>
+		<real>-73.99618599999999</real>
+	</dict>
+	<key>SILV</key>
+	<dict>
+		<key>name</key>
+		<string>Silver Center for Arts &amp; Science</string>
+		<key>lat</key>
+		<real>40.730145</real>
+		<key>long</key>
+		<real>-73.99604600000001</real>
+	</dict>
+	<key>SLHB</key>
+	<dict>
+		<key>name</key>
+		<string>Schwartz Lecture Hall Building</string>
+		<key>lat</key>
+		<real>40.742866</real>
+		<key>long</key>
+		<real>-73.97425200000001</real>
+	</dict>
+	<key>SOJS</key>
+	<dict>
+		<key>name</key>
+		<string>SOJ Studio</string>
+		<key>lat</key>
+		<integer>0</integer>
+		<key>long</key>
+		<integer>0</integer>
+	</dict>
+	<key>STAQ</key>
+	<dict>
+		<key>name</key>
+		<string>St. Thomas Aquinas College</string>
+		<key>lat</key>
+		<real>41.042311</real>
+		<key>long</key>
+		<real>-73.93583700000001</real>
+	</dict>
+	<key>STAT</key>
+	<dict>
+		<key>name</key>
+		<string>Staten Island</string>
+		<key>lat</key>
+		<real>40.606679</real>
+		<key>long</key>
+		<real>-74.162418</real>
+	</dict>
+	<key>STRC</key>
+	<dict>
+		<key>name</key>
+		<string>Stern College</string>
+		<key>lat</key>
+		<real>40.729278</real>
+		<key>long</key>
+		<real>-73.995976</real>
+	</dict>
+	<key>SUNY</key>
+	<dict>
+		<key>name</key>
+		<string>Suny College of Optometry</string>
+		<key>lat</key>
+		<real>40.754638</real>
+		<key>long</key>
+		<real>-73.982737</real>
+	</dict>
+	<key>TBA</key>
+	<dict>
+		<key>name</key>
+		<string>To Be Arranged</string>
+		<key>lat</key>
+		<integer>0</integer>
+		<key>long</key>
+		<integer>0</integer>
+	</dict>
+	<key>THOM</key>
+	<dict>
+		<key>name</key>
+		<string>Thompson Center, 238 Thompson Street</string>
+		<key>lat</key>
+		<real>40.729851</real>
+		<key>long</key>
+		<real>-73.998254</real>
+	</dict>
+	<key>TISC</key>
+	<dict>
+		<key>name</key>
+		<string>Tisch Hall</string>
+		<key>lat</key>
+		<real>40.729278</real>
+		<key>long</key>
+		<real>-73.995976</real>
+	</dict>
+	<key>VAND</key>
+	<dict>
+		<key>name</key>
+		<string>Vanderbilt Hall</string>
+		<key>lat</key>
+		<real>40.730521</real>
+		<key>long</key>
+		<real>-73.999509</real>
+	</dict>
+	<key>VERN</key>
+	<dict>
+		<key>name</key>
+		<string>58 West 10th Street</string>
+		<key>lat</key>
+		<real>40.734285</real>
+		<key>long</key>
+		<real>-73.99794199999999</real>
+	</dict>
+	<key>VIAC</key>
+	<dict>
+		<key>name</key>
+		<string>Viacom Center</string>
+		<key>lat</key>
+		<real>32.05818</real>
+		<key>long</key>
+		<real>-81.100553</real>
+	</dict>
+	<key>W 36</key>
+	<dict>
+		<key>name</key>
+		<string>19 West 36th Street</string>
+		<key>lat</key>
+		<real>40.750378</real>
+		<key>long</key>
+		<real>-73.984729</real>
+	</dict>
+	<key>W 42</key>
+	<dict>
+		<key>name</key>
+		<string>416 West 42nd Street</string>
+		<key>lat</key>
+		<real>40.758534</real>
+		<key>long</key>
+		<real>-73.993678</real>
+	</dict>
+	<key>W 56</key>
+	<dict>
+		<key>name</key>
+		<string>130 West 56th Street</string>
+		<key>lat</key>
+		<real>40.764186</real>
+		<key>long</key>
+		<real>-73.97896900000001</real>
+	</dict>
+	<key>WAGN</key>
+	<dict>
+		<key>name</key>
+		<string>Wagner College</string>
+		<key>lat</key>
+		<real>40.616023</real>
+		<key>long</key>
+		<real>-74.09436100000001</real>
+	</dict>
+	<key>WAVE</key>
+	<dict>
+		<key>name</key>
+		<string>Waverly Building</string>
+		<key>lat</key>
+		<real>40.730283</real>
+		<key>long</key>
+		<real>-73.995138</real>
+	</dict>
+	<key>WEIN</key>
+	<dict>
+		<key>name</key>
+		<string>Weinstein Residence Hall</string>
+		<key>lat</key>
+		<real>40.731167</real>
+		<key>long</key>
+		<real>-73.995154</real>
+	</dict>
+	<key>WEIS</key>
+	<dict>
+		<key>name</key>
+		<string>Weissman Building</string>
+		<key>lat</key>
+		<real>40.737748</real>
+		<key>long</key>
+		<real>-73.9785</real>
+	</dict>
+	<key>WISE</key>
+	<dict>
+		<key>name</key>
+		<string>Wise Community Center</string>
+		<key>lat</key>
+		<real>40.75986</real>
+		<key>long</key>
+		<real>-73.970641</real>
+	</dict>
+	<key>WMEW</key>
+	<dict>
+		<key>name</key>
+		<string>Washington Mews</string>
+		<key>lat</key>
+		<real>40.731586</real>
+		<key>long</key>
+		<real>-73.996005</real>
+	</dict>
+	<key>WOOL</key>
+	<dict>
+		<key>name</key>
+		<string>Woolworth Building</string>
+		<key>lat</key>
+		<real>40.712245</real>
+		<key>long</key>
+		<real>-74.0086</real>
+	</dict>
+</dict>
+</plist>
